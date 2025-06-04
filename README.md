@@ -28,8 +28,8 @@ Hi there, welcome to my profile!
 ### 🚀 Featured Projects
 
 Check out my top work:
-- [Pinned Repo 1](https://github.com/joelani?tab=repositories)  
-- [Pinned Repo 2](https://github.com/joelani?tab=repositories)
+- [Pinned Repo 1](https://github.com/joelani/Hotel-Booking-WebApp.git)  
+- [Pinned Repo 2](https://github.com/joelani/Real-Estate-Project.git)
 
 <!-- Replace the above links with your actual pinned repo URLs if you want them direct -->
 
