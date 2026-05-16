@@ -3,7 +3,7 @@ Hi there, welcome to my profile!
 -->
 
 <h1 align="center" style="color:#8f2fff; font-weight:bold;">
-  👋 Hi, I'm Joelani!
+  👋 Hi, I'm Joseph Olaniyi
 </h1>
 
 <p align="center" style="font-size:1.2rem;">
@@ -28,8 +28,8 @@ Hi there, welcome to my profile!
 ### 🚀 Featured Projects
 
 Check out my top work:
-- [Pinned Repo 1](https://github.com/joelani/Hotel-Booking-WebApp.git)  
-- [Pinned Repo 2](https://github.com/joelani/Real-Estate-Project.git)
+- [Pinned Repo 1](https://github.com/joelani/formcraft.git)  
+- [Pinned Repo 2](https://github.com/joelani/QUICKSHOW.git)
 
 <!-- Replace the above links with your actual pinned repo URLs if you want them direct -->
 
@@ -59,7 +59,7 @@ Check out my top work:
 
 <details>
 <summary>✨ Fun Fact</summary>
-I believe that every great product starts with a great interface—and a little bit of purple never hurts!
+I believe that every great product starts with a great interface.
 </details>
 
 <!-- Accent color: #6C2EB0, Main purple: #8f2fff -->
