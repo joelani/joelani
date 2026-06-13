@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║   JOSEPH OLANIYI  ·  FULLSTACK DEVELOPER  ·  LAGOS, NG      ║
+║   JOSEPH OLANIYI  ·  FULLSTACK DEVELOPER.  ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -98,7 +98,6 @@ I build end-to-end fullstack products, translating complex system architecture i
 [![Email](https://img.shields.io/badge/josepholaniyi820@gmail.com-%230a0a08.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josepholaniyi820@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joelani)
 [![Twitter](https://img.shields.io/badge/@JoeLani__dev-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JoeLani_dev)
-[![GitHub](https://img.shields.io/badge/github.com/joelani-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joelani)
 
 </div>
 
